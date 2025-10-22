@@ -1,3 +1,5 @@
+![](https://sfetzel.github.io/avatar.png)
+
 Hey there, I'm a PhD Student at [STU FEI](https://www.fei.stuba.sk/) and Software Developer at [Omicron Lab](https://www.omicron-lab.com/).
 
 I obtained my Master degree in computer science at the [University of Vienna](https://www.univie.ac.at/) and wrote my thesis at the [Theory and Application of Algorithms Research Group](https://taa.cs.univie.ac.at/) about the Optimization of Graph Neural Networks. For my Bachelor thesis I had the opportunity to work on the Inverse Laplace Transform using Vector Fitting at Omicron Lab. Before I studied Mathematics and Physics for Teaching at the [University of Innsbruck](https://www.uibk.ac.at/de/).
