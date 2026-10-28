@@ -21,3 +21,5 @@ Please see my profile at [ResearchGate](https://www.researchgate.net/profile/Sim
 ## Links and Projects
 - [Visuomotor control for SO101](https://github.com/sfetzel/SO101-scripts): [video demonstration](https://www.youtube.com/watch?v=RR-SSm8HlTc)
 - [Interview with me for University of Vienna (German):](https://winf.univie.ac.at/en/study/fuer-studieninteressierte/informatik-absolventinnen-erzaehlen/interviews-mit-den-besten-absolventinnen-im-studienjahr-20232024/) top three graduates at the University of Vienna were invited to answer questions about how it is to study computer science.
+
+![](https://sfetzel.github.io/wave-hello-short2.gif)
